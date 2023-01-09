@@ -1,0 +1,8 @@
+[package]
+name = "mmap"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+apache-avro = "0.14.0"
+memmap2 = "0.5.8"
